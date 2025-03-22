@@ -1,4 +1,3 @@
-````markdown
 # Titanic Survival Prediction
 
 ## Task Objectives
@@ -12,7 +11,6 @@ This project develops a machine learning model to predict whether a passenger su
    git clone <repository-url>
    cd titanic-survival-prediction
    ```
-````
 
 2. Install dependencies:
    ```bash
